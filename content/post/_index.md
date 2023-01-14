@@ -1,6 +1,7 @@
 ---
 title: Posts
 cms_exclude: true
+active: FALSE
 
 # View.
 #   1 = List
